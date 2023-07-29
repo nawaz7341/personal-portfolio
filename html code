@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Personal Portfolio Website</title>
+    <!----CSS link----->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <nav>
+        <img src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" class="logo" />
+        <ul>
+          <li><a href="file:///C:/Users/Maham/Downloads/project/new%20intership%20project/index.html">Home</a></li>
+          <li><a href="file:///C:/Users/Maham/Downloads/project/new%20intership%20project/index.html#about">About</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="file:///C:/Users/Maham/Downloads/project/new%20intership%20project/index.html#my-works">Portfolio</a></li>
+          <li><a href="file:///C:/Users/Maham/Downloads/project/new%20intership%20project/index.html#contact-me">Contact</a></li>
+        </ul>
+        <a href="https://drive.google.com/file/d/1f1mcr1IM-TB_MpvdfX5ed5W2ClqdcAM7/view?usp=drivesdk " class="btn">Resume</a>
+      </nav>
+
+      <div class="content">
+        <span class="title">A Web Developer</span>
+        <h1>Hello, I’m <span>NAWAZ</span></h1>
+        <p>
+          I am a BE Computer Science student and a Web Developer and Learner 
+          studying in MVJ College of Engineering Banglore.
+      
+        </p>
+        <a href="https://drive.google.com/file/d/1f1mcr1IM-TB_MpvdfX5ed5W2ClqdcAM7/view?usp=drivesdk " class="btn">Download CV</a>
+      </div>
+    </div>
+  </body>
+</html>
